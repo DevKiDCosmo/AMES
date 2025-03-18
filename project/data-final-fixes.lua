@@ -1,0 +1,1 @@
+data.raw["container"]["iron-chest"].max_health = 1000

@@ -1,0 +1,9 @@
+{
+    "name": "amess",
+    "version": "0.0.1",
+    "title": "AAI Application Matter Energy Storage System AMESS",
+    "author": "DevKiD",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "? flib >= 0.16.2"],
+    "description": "This mod adds a new energy system to the game, which is based on matter. It can storage items etc. and distribute it by a network. It is like the ME-System from Minecraft."
+  }
