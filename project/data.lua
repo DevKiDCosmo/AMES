@@ -7,10 +7,10 @@ local function safe_require(module)
 end
 
 -- Require necessary modules
-safe_require("prototypes.assembly_machine.entity")
-safe_require("prototypes.assembly_machine.item")
-safe_require("prototypes.assembly_machine.recipe")
-safe_require("prototypes.assembly_machine.technology")
+safe_require("prototypes.entity.assembly_machine.entity")
+safe_require("prototypes.entity.assembly_machine.item")
+safe_require("prototypes.entity.assembly_machine.recipe")
+safe_require("prototypes.entity.assembly_machine.technology")
 
 safe_require("scripts.astro_group")
 safe_require("prototypes.quantum_singularity.item")
