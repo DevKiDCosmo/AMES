@@ -8,5 +8,6 @@ data:extend({
     results = {
       {type = "item", name = "quantum-singularity", amount = 1}
     },
+    -- TODO: Add crafting time and make it exklusive to the new machine
   }
 })
